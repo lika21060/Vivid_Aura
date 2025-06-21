@@ -23,9 +23,9 @@ Authentication : Django-ს ჩაშენებული სისტემა
 
 #მონაცემები:
 Admin მონაცემები:
-User: admin.
-Password: admin123.
+User: admin 
+Password: admin123
 
 სატესტო საიტზე დასარეგისტრირებელი (LogIn) მონაცემები:
-User: Test_user.
-password: Django123.
+User: Test_user
+password: Django123
